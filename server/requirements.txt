@@ -1,0 +1,9 @@
+torch==2.0.1
+transformers
+einops
+accelerate
+IProgress
+ipywidgets
+bitsandbytes
+xformers
+websockets
